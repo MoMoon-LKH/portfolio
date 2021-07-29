@@ -17,15 +17,15 @@
 > 기술 : <br>
 > java / Spring / maven / MySQL <br>
 > <br> 
-> 상세 설명 : (https://github.com/MoMoon-LKH/WebStudy/tree/master/26(project)/reservation)
+> [상세 설명](https://github.com/MoMoon-LKH/WebStudy/tree/master/26(project)/reservation)
 
 <br>
 
 ### 2. SNS 프로젝트
-> 개인 프로젝트
-> 개발 기간 : 2021.07 ~ 
->
-> 기술 :
-> java 11 / Spring Boot / Gradle / MySQL
->
-> 상세 설명 : ()
+> 개인 프로젝트 <br>
+> 개발 기간 : 2021.07 ~  <br>
+> <br>
+> 기술 : <br>
+> java 11 / Spring Boot / Gradle / MySQL <br>
+> <br>
+> [상세 설명]() <br>
