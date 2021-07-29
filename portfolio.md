@@ -28,4 +28,4 @@
 > 기술 : <br>
 > java 11 / Spring Boot / Gradle / MySQL <br>
 > <br>
-> [프로젝트 상세 설명]() <br>
+> [프로젝트 상세 설명](https://github.com/MoMoon-LKH/ProjectSNS) <br>
