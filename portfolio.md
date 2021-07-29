@@ -11,12 +11,13 @@
 
 ## Projects
 ### 1. 예약 페이지 ( 부스트코스 웹 풀스택 )
-> 개인 프로젝트
-> 개발기간 : 2021.03 ~ 2021.06
+> 개인 프로젝트 
+> 개발기간 : 2021.03 ~ 2021.06 
 > 
-> 기술 
+> 기술 : 
 > java / Spring / maven / MySQL
-> 상세 설명 : ()
+> 
+> 상세 설명 : (https://github.com/MoMoon-LKH/WebStudy/tree/master/26(project)/reservation)
 
 <br>
 
@@ -24,5 +25,7 @@
 > 개인 프로젝트
 > 개발 기간 : 2021.07 ~ 
 >
-> 기술
+> 기술 :
 > java 11 / Spring Boot / Gradle / MySQL
+>
+> 상세 설명 : ()
