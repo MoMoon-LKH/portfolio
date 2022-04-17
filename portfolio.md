@@ -3,7 +3,7 @@
 <br>
 
 ## Contact
-- email : rlgh28@gamil.com
+- email : rlgh28@gmail.com
 - blog : https://velog.io/@rlgh28
 - github : https://github.com/MoMoon-LKH
 
