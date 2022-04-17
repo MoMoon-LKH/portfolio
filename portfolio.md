@@ -23,9 +23,9 @@
 
 ### 2. SNS 프로젝트
 > 개인 프로젝트 <br>
-> 개발 기간 : 2021.07 ~  <br>
+> 개발 기간 : 2022.03 ~ 2022.04  <br>
 > <br>
 > 기술 : <br>
-> java 11 / Spring Boot / Gradle / MySQL <br>
+> java 11 / Spring Boot / Gradle / MariaDB <br>
 > <br>
-> [프로젝트 상세 설명](https://github.com/MoMoon-LKH/ProjectSNS) <br>
+> [프로젝트 상세 설명](https://github.com/MoMoon-LKH/SNS_Project) <br>
