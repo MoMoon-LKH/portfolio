@@ -41,6 +41,7 @@
 > java 11 / Spring Boot / Gradle / MariaDB <br>
 > <br>
 > [프로젝트 상세 설명](https://github.com/MoMoon-LKH/ShoppingMall) <br>
+<br>
 
 ### 4. 게임정보 웹 프로젝트
 > 개인 프로젝트 <br>
