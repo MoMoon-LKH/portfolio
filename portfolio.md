@@ -55,7 +55,7 @@
 > 
 > ## Back
 > ### 기술
-> java 11 / Spring Bott / Gradle / Aws RDB (MYSQL) <br>
+> java 11 / Spring Boot / JPA / Gradle / Aws RDB (MYSQL) <br>
 > 
 > [프로젝트 상세 설명](https://github.com/MoMoon-LKH/GameInfoWeb)<br>
 > 전반적인 서비스 개발은 끝났지만 현재 AWS EC2 Docker를 통해 서버 구축 중(HTTPS 설정 및 nginx 설정)
