@@ -19,19 +19,20 @@
 ## Projects
 ### 1. 게임정보 웹 프로젝트
 > 개인 프로젝트 <br>
-> ## Front
-> ### 기술 
-> React / Js / Html <br>
+> 게임 관련 정보를 제공하는 커뮤니티 웹 사이트 <br>
+> #### `Front`
+> #### 기술 
+> React / JS / Html <br>
 > 
 > [프로젝트 상세 설명](https://github.com/MoMoon-LKH/gameInfoVer2Front) <br>
 > 
-> ## Back
-> ### 기술
+> #### `Back`
+> #### 기술
 > java 11 / Spring Boot / JPA / Gradle / Aws RDB (MYSQL) / Swagger <br>
 > 
 > [프로젝트 상세 설명](https://github.com/MoMoon-LKH/GameInfo_Ver2)<br>
 > 
-> #### `배포환경`
+> #### `배포 환경`
 > AWS EC2 / Docker <br>
 <br>
 
