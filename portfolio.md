@@ -19,6 +19,7 @@
 ## Projects
 ### 1. 게임정보 웹 프로젝트
 > 개인 프로젝트 <br>
+> https://www.gameinfo.momoon.kro.kr/
 > <br>
 > #### `간략설명`
 > 게임 관련 정보를 제공하는 커뮤니티 웹 사이트 <br>
